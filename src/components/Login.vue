@@ -45,5 +45,6 @@ export default {
     color: $china-rose;
     font-size: 18px;
     font-weight: 700;
+    cursor: pointer;
 }
 </style>
